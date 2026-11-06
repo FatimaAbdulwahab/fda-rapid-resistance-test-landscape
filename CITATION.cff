@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "FDA-Cleared Rapid Resistance Test Landscape: a device-by-target dataset of rapid blood culture identification/resistance panels and rapid phenotypic susceptibility systems"
+version: 1.0.0
+date-released: 2026-11-06
+authors:
+  - family-names: Abdulwahab
+    given-names: Fatima
+    affiliation: "Independent researcher, Dallas, Texas, USA"
+    orcid: "https://orcid.org/0009-0008-2298-8386"
+    email: abdulwahabfatima43@gmail.com
+repository-code: "https://github.com/FatimaAbdulwahab/fda-rapid-resistance-test-landscape"
+license: CC-BY-4.0
+keywords:
+  - antimicrobial resistance
+  - bloodstream infection
+  - blood culture identification
+  - rapid antimicrobial susceptibility testing
+  - FDA 510(k)
+  - De Novo
+  - clinical microbiology
+  - in vitro diagnostics
+abstract: >-
+  An open dataset of FDA-cleared and De Novo-authorized rapid molecular blood culture identification and
+  resistance panels and rapid phenotypic susceptibility systems for positive blood cultures. For each device
+  family it records organism and resistance targets, antimicrobial-organism indications, specimen type, and
+  labeled limitations, including what a negative result does and does not rule out, each traced to a 510(k)
+  or De Novo number, decision date and page of the FDA source document.

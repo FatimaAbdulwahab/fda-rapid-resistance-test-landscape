@@ -1,0 +1,12 @@
+submission,device_name,product_code,reason
+K182690,ePlex BCID Fungal Pathogen (BCID-FP) Panel,PEO,Yeast/fungal-only panel with no resistance targets; outside scope (resistance landscape).
+K240627,LIAISON PLEX Yeast Blood Culture Assay,PEO,Yeast-only panel with no resistance targets; outside scope.
+K231536,Avails eQUANT System,QZX,"Inoculum-preparation device; no identification, resistance or susceptibility targets of its own."
+K211759,Selux AST System (isolate testing),LON,Isolate-based AST; in-scope use (direct from positive blood culture) is captured via the PBC Separator submissions K223493/K244044.
+K211748,Selux AST System (isolate testing),LON,Isolate-based AST; see K211759.
+K132822,BD MAX StaphSR Assay,NQX,"Specimen is nasal swabs (""nasal swabs in patients at risk for nasal colonization""), not positive blood culture."
+product code LON (other),"Conventional automated AST (e.g., BD Phoenix, VITEK 2, MicroScan)",LON,Isolate-based susceptibility testing after overnight subculture; not direct-from-positive-blood-culture rapid tests.
+n/a,"Whole-blood (non-blood-culture) panels, e.g., T2 Biosystems panels",various,"Specimen is whole blood, not positive blood culture; outside v0.9 scope. Candidate for a later version."
+product code MYI (other),"PBP2a latex/immunochromatographic tests and MRSA identification assays (e.g., Alere PBP2a, BinaxNOW/Clearview PBP2a, Oxoid PBP2' latex, MRSA-Screen, Mastalex-MRSA, Velogene)",MYI,Performed on isolates/colonies per device names; not individually reviewed. K140619 (mecA XpressFISH) in this code is included.
+product code NQX (other),"MRSA/SA nucleic acid tests for nasal, skin and soft-tissue swabs",NQX,Specimen is not positive blood culture. Only blood culture assays in this code are included.
+Xpert Carba-R and similar,Carbapenemase gene tests on isolates or rectal swabs,various,"Specimen is isolates or rectal swabs, not positive blood culture."

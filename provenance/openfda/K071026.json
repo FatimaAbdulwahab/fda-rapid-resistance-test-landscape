@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-26",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "third_party_flag": "N",
+      "city": "San Diego",
+      "advisory_committee_description": "Microbiology",
+      "address_1": "6146 Nancy Ridge Dr.",
+      "address_2": "",
+      "statement_or_summary": "Summary",
+      "product_code": "NQX",
+      "openfda": {
+        "registration_number": [
+          "9610126",
+          "3004530258",
+          "3003030793",
+          "2024800",
+          "3007420875",
+          "3003795116",
+          "2243471",
+          "1550222",
+          "1119779",
+          "3016838963",
+          "3004141078"
+        ],
+        "fei_number": [
+          "3004530258",
+          "3003030793",
+          "2024800",
+          "3002806559",
+          "3003795116",
+          "2243471",
+          "1550222",
+          "1119779",
+          "3016838963",
+          "3007420875",
+          "3004141078"
+        ],
+        "device_name": "System, Nucleic Acid Amplification Test, Dna, Methicillin Resistant Staphylococcus Aureus, Direct Specimen",
+        "medical_specialty_description": "Microbiology",
+        "regulation_number": "866.1640",
+        "device_class": "2"
+      },
+      "zip_code": "92121",
+      "applicant": "Bd Diagnostics (Geneohm Sciences Canada, Inc)",
+      "decision_date": "2007-12-20",
+      "decision_code": "SESE",
+      "country_code": "US",
+      "device_name": "BD GENEOHM STAPHSR ASSAY",
+      "advisory_committee": "MI",
+      "contact": "RAYMOND  BOULE",
+      "expedited_review_flag": "",
+      "k_number": "K071026",
+      "state": "CA",
+      "date_received": "2007-04-11",
+      "review_advisory_committee": "MI",
+      "postal_code": "92121",
+      "decision_description": "Substantially Equivalent",
+      "clearance_type": "Traditional"
+    }
+  ]
+}

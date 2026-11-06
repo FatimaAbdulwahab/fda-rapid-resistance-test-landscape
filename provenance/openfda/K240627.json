@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-26",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "third_party_flag": "N",
+      "city": "Northbrook",
+      "advisory_committee_description": "Microbiology",
+      "address_1": "4088 Commercial Ave.",
+      "address_2": "",
+      "statement_or_summary": "Summary",
+      "product_code": "PEO",
+      "openfda": {
+        "registration_number": [
+          "3002773840",
+          "3004613294",
+          "3010749841",
+          "3006028115",
+          "3004013603",
+          "3014553740",
+          "3008632402"
+        ],
+        "fei_number": [
+          "3002773840",
+          "3004613294",
+          "3010749841",
+          "3006028115",
+          "3004013603",
+          "3014553740",
+          "3008632402"
+        ],
+        "device_name": "Fungal Organisms, Nucleic Acid-Based Assay",
+        "medical_specialty_description": "Microbiology",
+        "regulation_number": "866.3365",
+        "device_class": "2"
+      },
+      "zip_code": "60062",
+      "applicant": "Luminex Corporation",
+      "decision_date": "2024-06-04",
+      "decision_code": "SESE",
+      "country_code": "US",
+      "device_name": "LIAISON PLEX Yeast Blood Culture Assay",
+      "advisory_committee": "MI",
+      "contact": "Sarah  Herzog",
+      "expedited_review_flag": "",
+      "k_number": "K240627",
+      "state": "IL",
+      "date_received": "2024-03-06",
+      "review_advisory_committee": "MI",
+      "postal_code": "60062",
+      "decision_description": "Substantially Equivalent",
+      "clearance_type": "Traditional"
+    }
+  ]
+}

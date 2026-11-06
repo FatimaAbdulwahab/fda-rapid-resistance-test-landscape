@@ -1,0 +1,41 @@
+family_id,submission_number,device_name_openfda,applicant_openfda,product_code,decision_code,decision_date,date_received,clearance_type,used_as_extraction_source
+ACCELERATE_PHENO,DEN160032,"Accelerate Pheno system, Accelerate Phenotest BC Kit",Accelerate Diagnotics,PRH,DENG,2017-02-23,2016-07-11,Direct,no
+ACCELERATE_PHENO,K192665,"Accelerate Pheno System, Accelerate PhenoTest BC Kit","Accelerate Diagnostics, Inc.",PRH,SESE,2020-09-15,2019-09-25,Traditional,yes
+ADVANDX_MECA_XPRESSFISH,K140619,MECA XPRESSFISH,"Advandx, Inc.",MYI,SESE,2014-10-10,2014-03-11,Traditional,yes
+ASTAR_BCGN,K221688,ASTar BC G- Kit and ASTar Instrument,Q-Linea AB,SAN,SESE,2024-04-26,2022-06-10,Traditional,no
+ASTAR_BCGN,K253573,ASTar BC G- Kit,Q-Linea AB,SAN,SESE,2026-04-15,2025-11-17,Traditional,yes
+BD_GENEOHM_STAPHSR,K071026,BD GENEOHM STAPHSR ASSAY,"Bd Diagnostics (Geneohm Sciences Canada, Inc)",NQX,SESE,2007-12-20,2007-04-11,Traditional,yes
+BIOFIRE_BCID,K130914,FILMARRAY BLOOD CULTURE IDENTIFICATION (BCID) PANEL,"Biofire Diagnostics, Inc.",PEN,SESE,2013-06-21,2013-04-02,Traditional,yes
+BIOFIRE_BCID,K143171,FilmArray Blood Culture Identification (BCID) Panel for use with the FilmArray 2.0,"Biofire Diagnostics, LLC",PEN,SESE,2015-01-30,2014-11-04,Traditional,no
+BIOFIRE_BCID,K160457,FilmArray Blood Culture Identification (BCID) panel for use with FilmArray Torch,"Biofire Diagnostics, LLC",PEN,SESE,2016-03-15,2016-02-19,Special,no
+BIOFIRE_BCID,K181493,FilmArray Blood Culture Identification (BCID) Panel,"Biofire Diagnostics, LLC",PEN,SESE,2018-07-05,2018-06-06,Special,no
+BIOFIRE_BCID2,K193519,BioFire Blood Culture Identification 2 (BCID2) Panel,"Biofire Diagnostics, LLC",PEN,SESE,2020-03-18,2019-12-19,Traditional,yes
+BIOFIRE_BCID2,K243759,BIOFIRE Blood Culture Identification 2 (BCID2) Panel (RFIT-ASY-0147 (30 pack) RFIT-ASY-0148 (6 pack)),"Biofire Diagnostics, LLC",PEN,SESE,2024-12-20,2024-12-06,Special,no
+EPLEX_BCIDGN,K182619,ePlex Blood Culture Identification Gram Negative (BCID-GN) Panel,"Genmark Diagnostics, Incorporated",PEN,SESE,2019-04-12,2018-09-24,Traditional,no
+EPLEX_BCIDGN,K213236,ePlex Blood Culture Identification Gram Negative (BCID-GN) Panel,"Genmark Diagnostics, Incorporated",PEN,SESE,2022-04-27,2021-09-30,Traditional,yes
+EPLEX_BCIDGP,K181663,ePlex Blood Culture Identification Panel - Gram Positive (BCID-GP) Panel,"Genmark Diagnostics, Incorporated",PAM,SESE,2018-12-20,2018-06-25,Traditional,yes
+GREATBASIN_STAPH,K152470,Great Basin Staph ID/R Blood Culture Panel,"Great Basin Scientific, Inc.",PAM,SESE,2016-03-25,2015-08-31,Traditional,yes
+ICUBATE_GN,K190341,iC-GN iC-Cassette for use on the iC-System,"Icubate, Inc.",PEN,SESE,2019-06-28,2019-02-14,Traditional,yes
+ICUBATE_GPC,K163390,iC-GPC Assay TM for use on the iC-SystemTM,"Icubate, Inc.",PAM,SESE,2017-08-08,2016-12-02,Traditional,yes
+KEYPATH_MRSA,K102342,KEYPATH(TM) MRSA/MSSA BLOOD CULTURE TEST- BT,"Microphage, Inc.",OUS,SESE,2011-05-05,2010-08-18,Traditional,no
+KEYPATH_MRSA,K120563,KEYPATH MRSA/MSSA BLOOD CULTURE TEST-BT,"Microphage, Inc.",OUS,SESE,2012-03-30,2012-02-24,Traditional,yes
+LIAISON_BCN,K243013,LIAISON PLEX Gram-Negative Blood Culture Assay,Luminex Corporation,PEN,SESE,2025-04-18,2024-09-27,Traditional,yes
+LIAISON_BCP,K243490,LIAISON PLEX Gram-Positive Blood Culture Assay,Luminex Corporation,PAM,SESE,2025-06-06,2024-11-12,Traditional,yes
+LIFESCALE_LSGN,K211815,LifeScale Gram Negative Kit (LSGN) with the LifeScale AST System,Affinity Biosensors,SAN,SESE,2024-04-02,2021-06-11,Traditional,no
+LIFESCALE_LSGN,K241324,LifeScale Gram Negative Kit (LSGN) with the LifeScale AST system,"Affinity Biosensors, LLC",SAN,SESE,2024-10-23,2024-05-10,Traditional,no
+LIFESCALE_LSGN,K251875,LifeScale Gram Negative Kit (LSGN) with the LifeScale AST system,"Affinity Biosensors, LLC",SAN,SESE,2025-10-27,2025-06-18,Traditional,yes
+PHAST_BCGN,K253316,PhAST instrument and PhAST Blood Culture Gram-negative Panel,Phast Corp.,SAN,SESE,2026-06-26,2025-09-30,Traditional,yes
+QIASTAT_BCID_GN,K262168,QIAstat-Dx BCID GN Plus AMR Panel,QIAGEN GmbH,PEN,SESE,2026-09-24,2026-06-26,Traditional,yes
+QIASTAT_BCID_GPF,K254194,QIAstat-Dx BCID GPF Plus AMR Panel,QIAGEN GmbH,PAM,SESE,2026-08-06,2025-12-23,Traditional,yes
+SELUX_PBC,K223493,PBC Separator with Selux AST System,"Selux Diagnostics, Inc.",QZX,SESE,2024-02-15,2022-11-21,Traditional,no
+SELUX_PBC,K244044,PBC Separator with Selux AST System,"Selux Diagnostics, Inc.",QZX,SESE,2025-03-28,2024-12-30,Traditional,yes
+VERIGENE_BCGN,K132843,VERIGENE GRAM NEGATIVE BLOOD CULTURE NUCLEIC ACID TEST (BC-GN),"Nanosphere, Inc.",PEN,SESE,2014-01-08,2013-09-10,Traditional,yes
+VERIGENE_BCGP,DEN120014,VERIGENE GRAM POSITIVE BLOOD CULTURE NUCLEIC ACID TEST (BC-GP),"Nanosphere, Inc.",PAM,DENG,2012-06-26,2012-06-15,Post-NSE,no
+VERIGENE_BCGP,K122514,VERIGENE GRAM-POSITIVE BLOOD CULTURE (GC-GP) NUCLEIC ACID TEST,"Nanosphere, Inc.",PAM,SESE,2012-09-19,2012-08-17,Traditional,yes
+VERIGENE_BCS,K112424,VERIGENE STAPHYLOCOCCUS BLOOD CULTURE NUCLEIC ACID TEST (BC-S),"Nanosphere, Inc.",NQX,SESE,2011-12-16,2011-08-23,Traditional,yes
+VITEK_REVEAL_GN,K230675,VITEK REVEAL GN AST Assay and VITEK REVEAL AST System,"Specific Diagnostics, LLC",SAN,SESE,2024-06-20,2023-03-10,Traditional,no
+VITEK_REVEAL_GN,K260160,VITEK REVEAL GN AST Assay and VITEK REVEAL AST System,"bioMerieux, Inc.",SAN,SESE,2026-07-08,2026-01-20,Traditional,yes
+XPERT_MRSASA_BC,K082140,XPERT MRSA/SA BLOOD CULTURE ASSAY,Cepheid,NQX,SESE,2008-09-29,2008-07-30,Traditional,no
+XPERT_MRSASA_BC,K101879,XPERT MRSA/SA BC (BLOOD CULTURE) ASSAY MODEL GXMRSA/SA-BC-10,Cepheid,NQX,SESE,2010-07-28,2010-07-06,Special,no
+XPERT_MRSASA_BC,K130894,"XPERT MRSA/SA BLOOD CULTURE ASSAY; GENEXPERT DX SYSTEMS (GX-I, GX-II, GX-IV, GX-XVI); GENEXPERT INFINITY-48 SYSTEM; GENE",Cepheid,NQX,SESE,2013-06-20,2013-04-01,Traditional,no
+XPERT_MRSASA_BC,K190771,"Xpert MRSA/SA Blood Culture, GeneXpert Dx System, GeneXpert Infinity-48s System, GeneXpert Infinity-80 System",Cepheid,NQX,SESE,2019-04-25,2019-03-26,Special,yes

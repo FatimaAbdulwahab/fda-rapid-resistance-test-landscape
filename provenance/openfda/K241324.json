@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-26",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "third_party_flag": "N",
+      "city": "Santa Barbara",
+      "advisory_committee_description": "Microbiology",
+      "address_1": "222 E. Canon Perdido St.",
+      "address_2": "",
+      "statement_or_summary": "Summary",
+      "product_code": "SAN",
+      "openfda": {
+        "registration_number": [
+          "2919016",
+          "3025772277",
+          "3009171251",
+          "2022807",
+          "1950204",
+          "3027320620"
+        ],
+        "fei_number": [
+          "2919016",
+          "3025772277",
+          "2022807",
+          "3006759904",
+          "1950204",
+          "3027320620"
+        ],
+        "device_name": "Automated Antimicrobial Susceptibility Test System For Positive Blood Culture Samples",
+        "medical_specialty_description": "Microbiology",
+        "regulation_number": "866.1650",
+        "device_class": "2"
+      },
+      "zip_code": "93101",
+      "applicant": "Affinity Biosensors, LLC",
+      "decision_date": "2024-10-23",
+      "decision_code": "SESE",
+      "country_code": "US",
+      "device_name": "LifeScale Gram Negative Kit (LSGN) with the LifeScale AST system",
+      "advisory_committee": "MI",
+      "contact": "Ken  Babcock",
+      "expedited_review_flag": "",
+      "k_number": "K241324",
+      "state": "CA",
+      "date_received": "2024-05-10",
+      "review_advisory_committee": "MI",
+      "postal_code": "93101",
+      "decision_description": "Substantially Equivalent",
+      "clearance_type": "Traditional"
+    }
+  ]
+}

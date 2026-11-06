@@ -1,0 +1,315 @@
+family_id,target_class,target_as_written,target_normalized,marker_family,resistance_result_reported_with,source_document,source_page
+BIOFIRE_BCID,organism,Enterococci,Enterococcus spp.,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Listeria monocytogenes,Listeria monocytogenes,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Staphylococci,Staphylococcus spp.,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Staphylococcus aureus,Staphylococcus aureus,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Streptococci,Streptococcus spp.,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Streptococcus agalactiae,Streptococcus agalactiae,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Streptococcus pyogenes,Streptococcus pyogenes,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Acinetobacter baumannii,Acinetobacter baumannii complex,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Enterobacteriaceae,Enterobacterales,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Enterobacter cloacae complex,Enterobacter cloacae complex,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Escherichia coli,Escherichia coli,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Klebsiella pneumoniae,Klebsiella pneumoniae,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Proteus,Proteus spp.,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Serratia marcescens,Serratia marcescens,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Haemophilus influenzae,Haemophilus influenzae,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Neisseria meningitidis (encapsulated),Neisseria meningitidis,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Candida albicans,Candida albicans,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Candida glabrata,Candida glabrata,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Candida krusei,Candida krusei,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Candida parapsilosis,Candida parapsilosis,,,K130914,IFU (section H)
+BIOFIRE_BCID,organism,Candida tropicalis,Candida tropicalis,,,K130914,IFU (section H)
+BIOFIRE_BCID,resistance_marker,mecA,mecA,mec (mecA/mecC),Staphylococcus,K130914,Device description table
+BIOFIRE_BCID,resistance_marker,vanA,vanA,van (vanA/vanB),Enterococcus,K130914,Device description table
+BIOFIRE_BCID,resistance_marker,vanB,vanB,van (vanA/vanB),Enterococcus,K130914,Device description table
+BIOFIRE_BCID,resistance_marker,blaKPC,KPC,KPC,"any Enterobacteriaceae, A. baumannii and/or P. aeruginosa",K130914,Device description table
+BIOFIRE_BCID2,organism,Enterococcus faecalis,Enterococcus faecalis,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Enterococcus faecium,Enterococcus faecium,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Listeria monocytogenes,Listeria monocytogenes,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Staphylococcus spp.,Staphylococcus spp.,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Staphylococcus aureus,Staphylococcus aureus,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Streptococcus spp.,Streptococcus spp.,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Streptococcus agalactiae,Streptococcus agalactiae,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Streptococcus pyogenes,Streptococcus pyogenes,,,K193519,pp.3-4
+BIOFIRE_BCID2,organism,Acinetobacter calcoaceticus-baumannii complex,Acinetobacter baumannii complex,,,K193519,p.4
+BIOFIRE_BCID2,organism,Bacteroides fragilis,Bacteroides fragilis,,,K193519,p.4
+BIOFIRE_BCID2,organism,Haemophilus influenzae,Haemophilus influenzae,,,K193519,p.4
+BIOFIRE_BCID2,organism,Neisseria meningitidis (encapsulated),Neisseria meningitidis,,,K193519,p.4
+BIOFIRE_BCID2,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K193519,p.4
+BIOFIRE_BCID2,organism,Stenotrophomonas maltophilia,Stenotrophomonas maltophilia,,,K193519,p.4
+BIOFIRE_BCID2,organism,Enterobacterales,Enterobacterales,,,K193519,p.4
+BIOFIRE_BCID2,organism,Enterobacter cloacae complex,Enterobacter cloacae complex,,,K193519,p.4
+BIOFIRE_BCID2,organism,Escherichia coli,Escherichia coli,,,K193519,p.4
+BIOFIRE_BCID2,organism,Klebsiella aerogenes,Klebsiella aerogenes,,,K193519,p.4
+BIOFIRE_BCID2,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K193519,p.4
+BIOFIRE_BCID2,organism,Klebsiella pneumoniae group,Klebsiella pneumoniae group,,,K193519,p.4
+BIOFIRE_BCID2,organism,Proteus spp.,Proteus spp.,,,K193519,p.4
+BIOFIRE_BCID2,organism,Salmonella spp.,Salmonella spp.,,,K193519,p.4
+BIOFIRE_BCID2,organism,Serratia marcescens,Serratia marcescens,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida albicans,Candida albicans,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida auris,Candida auris,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida glabrata,Candida glabrata,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida krusei,Candida krusei,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida parapsilosis,Candida parapsilosis,,,K193519,p.4
+BIOFIRE_BCID2,organism,Candida tropicalis,Candida tropicalis,,,K193519,p.4
+BIOFIRE_BCID2,organism,Cryptococcus neoformans/gattii,Cryptococcus neoformans/gattii,,,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,CTX-M,CTX-M,CTX-M,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,IMP,IMP,IMP,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,KPC,KPC,KPC,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,mcr-1,mcr-1,mcr,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,mecA/C,mecA/mecC,mec (mecA/mecC),not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,mecA/C and MREJ (MRSA),mecA/mecC + MREJ (MRSA),mec (mecA/mecC),not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,NDM,NDM,NDM,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,OXA-48-like,OXA-48-like,OXA-48-like,not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,vanA/B,vanA/vanB,van (vanA/vanB),not stated in decision summary IFU,K193519,p.4
+BIOFIRE_BCID2,resistance_marker,VIM,VIM,VIM,not stated in decision summary IFU,K193519,p.4
+VERIGENE_BCGP,organism,Staphylococcus spp.,Staphylococcus spp.,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Staphylococcus aureus,Staphylococcus aureus,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Enterococcusfaecalis,Enterococcus faecalis,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Enterococcusfaecium,Enterococcus faecium,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Streptococcus spp.,Streptococcus spp.,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Streptococcus pyogenes,Streptococcus pyogenes,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Streptococcus agalactiae,Streptococcus agalactiae,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Streptococcus anginosus group,Streptococcus anginosus group,,,K122514,Intended Use
+VERIGENE_BCGP,organism,Listeria spp.,Listeria spp.,,,K122514,Intended Use
+VERIGENE_BCGP,resistance_marker,mecA,mecA,mec (mecA/mecC),S. aureus or S. epidermidis (not attributed in mixed growth),K122514,Intended Use
+VERIGENE_BCGP,resistance_marker,vanA,vanA,van (vanA/vanB),E. faecalis or E. faecium (not attributed in mixed growth),K122514,Intended Use
+VERIGENE_BCGP,resistance_marker,vanB,vanB,van (vanA/vanB),E. faecalis or E. faecium (not attributed in mixed growth),K122514,Intended Use
+VERIGENE_BCS,organism,Staphylococcus aureus,Staphylococcus aureus,,,K112424,IFU (section H)
+VERIGENE_BCS,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K112424,IFU (section H)
+VERIGENE_BCS,resistance_marker,mecA,mecA,mec (mecA/mecC),SA or SE (not attributed in mixed growth),K112424,IFU (section H)
+VERIGENE_BCGN,organism,Acinetobacter spp.,Acinetobacter spp.,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Citrobacter spp.,Citrobacter spp.,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Enterobacter spp.,Enterobacter spp.,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Proteus spp.,Proteus spp.,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Escherichia coli,Escherichia coli/Shigella spp. (not distinguished),,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Klebsiella pneumoniae,Klebsiella pneumoniae,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K132843,IFU p.1
+VERIGENE_BCGN,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,CTX-M (blaCTX-M),CTX-M,CTX-M,not stated in IFU,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,KPC (blaKPC),KPC,KPC,not stated in IFU,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,NDM (blaNDM),NDM,NDM,not stated in IFU,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,VIM (blaVIM),VIM,VIM,not stated in IFU,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,IMP (blaIMP),IMP,IMP,not stated in IFU,K132843,IFU p.1
+VERIGENE_BCGN,resistance_marker,OXA (blaOXA),OXA (group not specified in IFU),OXA (group not specified),not stated in IFU,K132843,IFU p.1
+EPLEX_BCIDGP,organism,Bacillus cereus group,Bacillus cereus group,,,K181663,p.2
+EPLEX_BCIDGP,organism,Bacillus subtilis group,Bacillus subtilis group,,,K181663,p.2
+EPLEX_BCIDGP,organism,Corynebacterium,Corynebacterium spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Cutibacterium acnes (Propionibacterium acnes),Cutibacterium acnes (Propionibacterium acnes),,,K181663,p.2
+EPLEX_BCIDGP,organism,Enterococcus,Enterococcus spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Enterococcus faecalis,Enterococcus faecalis,,,K181663,p.2
+EPLEX_BCIDGP,organism,Enterococcus faecium,Enterococcus faecium,,,K181663,p.2
+EPLEX_BCIDGP,organism,Lactobacillus,Lactobacillus spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Listeria,Listeria spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Listeria monocytogenes,Listeria monocytogenes,,,K181663,p.2
+EPLEX_BCIDGP,organism,Micrococcus,Micrococcus spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Staphylococcus,Staphylococcus spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Staphylococcus aureus,Staphylococcus aureus,,,K181663,p.2
+EPLEX_BCIDGP,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K181663,p.2
+EPLEX_BCIDGP,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K181663,p.2
+EPLEX_BCIDGP,organism,Streptococcus,Streptococcus spp.,,,K181663,p.2
+EPLEX_BCIDGP,organism,Streptococcus agalactiae (GBS),Streptococcus agalactiae,,,K181663,p.2
+EPLEX_BCIDGP,organism,Streptococcus anginosus group,Streptococcus anginosus group,,,K181663,p.2
+EPLEX_BCIDGP,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K181663,p.2
+EPLEX_BCIDGP,organism,Streptococcus pyogenes (GAS),Streptococcus pyogenes,,,K181663,p.2
+EPLEX_BCIDGP,pan_target,Pan Gram-Negative assay,Pan Gram-Negative,,,K181663,pp.2-3
+EPLEX_BCIDGP,pan_target,"Pan Candida assay (C. albicans, C. glabrata, C. krusei, C. parapsilosis)",Pan Candida,,,K181663,pp.2-3
+EPLEX_BCIDGP,resistance_marker,mecA,mecA,mec (mecA/mecC),any Staphylococcus assay (p.12),K181663,p.2
+EPLEX_BCIDGP,resistance_marker,mecC,mecC,mec (mecA/mecC),any Staphylococcus assay (p.12),K181663,p.2
+EPLEX_BCIDGP,resistance_marker,vanA,vanA,van (vanA/vanB),any Enterococcus assay (p.12),K181663,p.2
+EPLEX_BCIDGP,resistance_marker,vanB,vanB,van (vanA/vanB),any Enterococcus assay (p.12),K181663,p.2
+EPLEX_BCIDGN,organism,Acinetobacter baumannii,Acinetobacter baumannii complex,,,K213236,p.2
+EPLEX_BCIDGN,organism,Bacteroides fragilis,Bacteroides fragilis,,,K213236,p.2
+EPLEX_BCIDGN,organism,Citrobacter,Citrobacter spp.,,,K213236,p.2
+EPLEX_BCIDGN,organism,Cronobacter sakazakii,Cronobacter sakazakii,,,K213236,p.2
+EPLEX_BCIDGN,organism,Enterobacter cloacae complex,Enterobacter cloacae complex,,,K213236,p.2
+EPLEX_BCIDGN,organism,Enterobacter (non-cloacae complex),Enterobacter (non-cloacae complex),,,K213236,p.2
+EPLEX_BCIDGN,organism,Escherichia coli,Escherichia coli,,,K213236,p.2
+EPLEX_BCIDGN,organism,Fusobacterium necrophorum,Fusobacterium necrophorum,,,K213236,p.2
+EPLEX_BCIDGN,organism,Fusobacterium nucleatum,Fusobacterium nucleatum,,,K213236,p.2
+EPLEX_BCIDGN,organism,Haemophilus influenzae,Haemophilus influenzae,,,K213236,p.2
+EPLEX_BCIDGN,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K213236,p.2
+EPLEX_BCIDGN,organism,Klebsiella pneumoniae group,Klebsiella pneumoniae group,,,K213236,p.2
+EPLEX_BCIDGN,organism,Morganella morganii,Morganella morganii,,,K213236,p.2
+EPLEX_BCIDGN,organism,Neisseria meningitidis,Neisseria meningitidis,,,K213236,p.2
+EPLEX_BCIDGN,organism,Proteus,Proteus spp.,,,K213236,p.2
+EPLEX_BCIDGN,organism,Proteus mirabilis,Proteus mirabilis,,,K213236,p.2
+EPLEX_BCIDGN,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K213236,p.2
+EPLEX_BCIDGN,organism,Salmonella,Salmonella spp.,,,K213236,p.2
+EPLEX_BCIDGN,organism,Serratia,Serratia spp.,,,K213236,p.2
+EPLEX_BCIDGN,organism,Serratia marcescens,Serratia marcescens,,,K213236,p.2
+EPLEX_BCIDGN,organism,Stenotrophomonas maltophilia,Stenotrophomonas maltophilia,,,K213236,p.2
+EPLEX_BCIDGN,pan_target,"Pan Gram-Positive assay (Bacillus cereus group, Bacillus subtilis group, Enterococcus, Staphylococcus, Streptococcus)",Pan Gram-Positive,,,K213236,pp.2-3
+EPLEX_BCIDGN,pan_target,"Pan Candida assay (C. albicans, C. glabrata, C. krusei, C. parapsilosis)",Pan Candida,,,K213236,pp.2-3
+EPLEX_BCIDGN,resistance_marker,CTX-M (blaCTX-M),CTX-M,CTX-M,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,IMP (blaIMP),IMP,IMP,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,KPC (blaKPC),KPC,KPC,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,NDM (blaNDM),NDM,NDM,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,OXA (blaOXA) (OXA-23 and OXA-48 groups only),OXA-23,OXA-23,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,OXA (blaOXA) (OXA-23 and OXA-48 groups only),OXA-48-like,OXA-48-like,not stated in IFU,K213236,p.2
+EPLEX_BCIDGN,resistance_marker,VIM (blaVIM),VIM,VIM,not stated in IFU,K213236,p.2
+GREATBASIN_STAPH,organism,Staphylococcus aureus,Staphylococcus aureus,,,K152470,p.2
+GREATBASIN_STAPH,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K152470,p.2
+GREATBASIN_STAPH,organism,various Staphylococcus species to the genus level,Staphylococcus spp.,,,K152470,p.2
+GREATBASIN_STAPH,resistance_marker,mecA,mecA,mec (mecA/mecC),all Staphylococcus organisms (p.5 comparison table),K152470,p.2
+ICUBATE_GPC,organism,Staphylococcus aureus,Staphylococcus aureus,,,K163390,p.2
+ICUBATE_GPC,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K163390,p.2
+ICUBATE_GPC,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K163390,p.2
+ICUBATE_GPC,organism,Enterococcus faecalis,Enterococcus faecalis,,,K163390,p.2
+ICUBATE_GPC,organism,Enterococcus faecium,Enterococcus faecium,,,K163390,p.2
+ICUBATE_GPC,resistance_marker,mecA,mecA,mec (mecA/mecC),reported only with S. aureus or S. epidermidis positive (p.4),K163390,p.2
+ICUBATE_GPC,resistance_marker,vanA,vanA,van (vanA/vanB),reported only with E. faecium or E. faecalis positive (p.4),K163390,p.2
+ICUBATE_GPC,resistance_marker,vanB,vanB,van (vanA/vanB),reported only with E. faecium or E. faecalis positive (p.4),K163390,p.2
+ICUBATE_GN,organism,Acinetobacter baumannii complex,Acinetobacter baumannii complex,,,K190341,p.2
+ICUBATE_GN,organism,Enterobacter cloacae complex,Enterobacter cloacae complex,,,K190341,p.2
+ICUBATE_GN,organism,Escherichia coli,Escherichia coli,,,K190341,p.2
+ICUBATE_GN,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K190341,p.2
+ICUBATE_GN,organism,Klebsiella pneumoniae,Klebsiella pneumoniae,,,K190341,p.2
+ICUBATE_GN,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K190341,p.2
+ICUBATE_GN,organism,Proteus species,Proteus spp.,,,K190341,p.2
+ICUBATE_GN,organism,Serratia marcescens,Serratia marcescens,,,K190341,p.2
+ICUBATE_GN,resistance_marker,KPC (blaKPC),KPC,KPC,not attributed to a specific genus or species in mixed growth,K190341,p.2
+ICUBATE_GN,resistance_marker,NDM (blaNDM),NDM,NDM,not attributed to a specific genus or species in mixed growth,K190341,p.2
+ICUBATE_GN,resistance_marker,CTX-M group 1 (blaCTX-M group 1),CTX-M group 1,CTX-M,not attributed to a specific genus or species in mixed growth,K190341,p.2
+LIAISON_BCP,organism,Bacillus spp.,Bacillus spp.,,,K243490,p.3
+LIAISON_BCP,organism,Enterococcus faecalis,Enterococcus faecalis,,,K243490,p.3
+LIAISON_BCP,organism,Enterococcus faecium,Enterococcus faecium,,,K243490,p.3
+LIAISON_BCP,organism,Listeria spp.,Listeria spp.,,,K243490,p.3
+LIAISON_BCP,organism,Staphylococcus spp.,Staphylococcus spp.,,,K243490,p.3
+LIAISON_BCP,organism,Staphylococcus aureus,Staphylococcus aureus,,,K243490,p.3
+LIAISON_BCP,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K243490,p.3
+LIAISON_BCP,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K243490,p.3
+LIAISON_BCP,organism,Streptococcus spp.,Streptococcus spp.,,,K243490,p.3
+LIAISON_BCP,organism,Streptococcus agalactiae,Streptococcus agalactiae,,,K243490,p.3
+LIAISON_BCP,organism,Streptococcus anginosus group,Streptococcus anginosus group,,,K243490,p.3
+LIAISON_BCP,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K243490,p.3
+LIAISON_BCP,organism,Streptococcus pyogenes,Streptococcus pyogenes,,,K243490,p.3
+LIAISON_BCP,resistance_marker,mecA/mecC,mecA/mecC,mec (mecA/mecC),"Staphylococcus spp., S. aureus, S. epidermidis or S. lugdunensis (not attributed in mixed growth)",K243490,p.3
+LIAISON_BCP,resistance_marker,vanA,vanA,van (vanA/vanB),E. faecalis or E. faecium (not attributed in mixed growth),K243490,p.3
+LIAISON_BCP,resistance_marker,vanB,vanB,van (vanA/vanB),E. faecalis or E. faecium (not attributed in mixed growth),K243490,p.3
+LIAISON_BCN,organism,Enterobacteriaceae / Morganellaceae,Enterobacterales,,,K243013,pp.3-4
+LIAISON_BCN,organism,Acinetobacter baumannii,Acinetobacter baumannii complex,,,K243013,pp.3-4
+LIAISON_BCN,organism,Acinetobacter spp.,Acinetobacter spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Citrobacter spp.,Citrobacter spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Enterobacter spp. (Klebsiella aerogenes reported as Enterobacter spp.),Enterobacter spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Escherichia coli,Escherichia coli/Shigella spp. (not distinguished),,,K243013,pp.3-4
+LIAISON_BCN,organism,Haemophilus influenzae,Haemophilus influenzae,,,K243013,pp.3-4
+LIAISON_BCN,organism,Klebsiella oxytoca,Klebsiella oxytoca,,,K243013,pp.3-4
+LIAISON_BCN,organism,Klebsiella pneumoniae,Klebsiella pneumoniae,,,K243013,pp.3-4
+LIAISON_BCN,organism,Klebsiella variicola,Klebsiella variicola,,,K243013,pp.3-4
+LIAISON_BCN,organism,Morganella morganii,Morganella morganii,,,K243013,pp.3-4
+LIAISON_BCN,organism,Neisseria meningitidis,Neisseria meningitidis,,,K243013,pp.3-4
+LIAISON_BCN,organism,Proteus spp.,Proteus spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K243013,pp.3-4
+LIAISON_BCN,organism,Pseudomonas spp.,Pseudomonas spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Salmonella spp.,Salmonella spp.,,,K243013,pp.3-4
+LIAISON_BCN,organism,Serratia marcescens,Serratia marcescens,,,K243013,pp.3-4
+LIAISON_BCN,organism,Stenotrophomonas maltophilia,Stenotrophomonas maltophilia,,,K243013,pp.3-4
+LIAISON_BCN,resistance_marker,CTX-M (blaCTX-M),CTX-M,CTX-M,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,IMP (blaIMP),IMP,IMP,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,KPC (blaKPC),KPC,KPC,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,NDM (blaNDM),NDM,NDM,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,OXA (blaOXA); described on p.4 as blaOXA48-like,OXA-48-like,OXA-48-like,not stated in IFU,K243013,pp.3-4
+LIAISON_BCN,resistance_marker,VIM (blaVIM),VIM,VIM,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,MCR,mcr,mcr,not stated in IFU,K243013,p.3
+LIAISON_BCN,resistance_marker,SME (blaSME),SME,SME,not stated in IFU,K243013,p.3
+QIASTAT_BCID_GPF,organism,Bacillus cereus group,Bacillus cereus group,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Corynebacterium,Corynebacterium spp.,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Enterococcus faecalis,Enterococcus faecalis,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Enterococcus faecium,Enterococcus faecium,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Listeria monocytogenes,Listeria monocytogenes,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Micrococcus spp.,Micrococcus spp.,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Staphylococcus aureus,Staphylococcus aureus,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Staphylococcus epidermidis,Staphylococcus epidermidis,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,S. capitis/S. hominis,S. capitis/S. hominis,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Streptococcus agalactiae,Streptococcus agalactiae,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Streptococcus anginosus group,Streptococcus anginosus group,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Streptococcus pneumoniae,Streptococcus pneumoniae,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Streptococcus pyogenes,Streptococcus pyogenes,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Cryptococcus neoformans/gattii,Cryptococcus neoformans/gattii,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Fusarium,Fusarium spp.,,,K254194,p.4
+QIASTAT_BCID_GPF,organism,Candida auris,Candida auris,,,K254194,p.4
+QIASTAT_BCID_GPF,pan_target,A broad Pan Gram-Negative assay,Pan Gram-Negative,,,K254194,pp.4-5
+QIASTAT_BCID_GPF,pan_target,"Candida Group 1 (C. albicans, C. tropicalis, C. dubliniensis, C. famata, C. guilliermondii, C. kefyr; not differentiated)",Candida group 1,,,K254194,pp.4-5
+QIASTAT_BCID_GPF,pan_target,"Candida Group 2 (C. glabrata, C. krusei, C. parapsilosis, C. lusitaniae; not differentiated)",Candida group 2,,,K254194,pp.4-5
+QIASTAT_BCID_GPF,resistance_marker,aac(6') aph(2'),aac(6')-aph(2''),aac(6') (aminoglycoside),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,cfr,cfr,cfr,not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,erm(A),erm(A),erm (MLSb),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,erm(C),erm(C),erm (MLSb),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,mecA,mecA,mec (mecA/mecC),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,mecC,mecC,mec (mecA/mecC),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,tet(K),tet(K),tet,not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,tet(M),tet(M),tet,not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,vanA,vanA,van (vanA/vanB),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GPF,resistance_marker,vanB,vanB,van (vanA/vanB),not stated in decision summary IFU,K254194,p.5
+QIASTAT_BCID_GN,organism,Acinetobacter calcoaceticus-baumannii complex,Acinetobacter baumannii complex,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Bacteroides fragilis,Bacteroides fragilis,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Enterobacter spp.,Enterobacter spp.,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Escherichia coli,Escherichia coli,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Haemophilus influenzae,Haemophilus influenzae,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Klebsiella spp.,Klebsiella spp.,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Neisseria meningitidis (encapsulated),Neisseria meningitidis,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Proteus spp.,Proteus spp.,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Salmonella spp.,Salmonella spp.,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Serratia spp.,Serratia spp.,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Stenotrophomonas maltophilia,Stenotrophomonas maltophilia,,,K262168,pp.3-4
+QIASTAT_BCID_GN,organism,Pan Enterobacterales,Enterobacterales,,,K262168,pp.3-4
+QIASTAT_BCID_GN,resistance_marker,aac(6')-lb,aac(6')-Ib,aac(6') (aminoglycoside),not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,ampC (CMY/LAT/DHA/FOX),ampC (CMY/LAT/DHA/FOX),ampC (CMY/LAT/DHA/FOX),not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,armA,armA,armA,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,CTX-M,CTX-M,CTX-M,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,GES,GES,GES,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,IMP,IMP,IMP,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,KPC,KPC,KPC,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,NDM,NDM,NDM,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,OXA-23,OXA-23,OXA-23,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,OXA-24/40,OXA-24/40,OXA-24/40,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,OXA-48-like,OXA-48-like,OXA-48-like,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,OXA-58,OXA-58,OXA-58,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,PER,PER,PER,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,SHV,SHV,SHV,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,SPM,SPM,SPM,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,TEM,TEM,TEM,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,VEB,VEB,VEB,not stated in decision summary IFU,K262168,p.4
+QIASTAT_BCID_GN,resistance_marker,VIM,VIM,VIM,not stated in decision summary IFU,K262168,p.4
+XPERT_MRSASA_BC,organism,Staphylococcus aureus,Staphylococcus aureus,,,K190771,p.2
+XPERT_MRSASA_BC,resistance_phenotype,methicillin-resistant Staphylococcus aureus (MRSA),MRSA,methicillin resistance (phenotype),S. aureus,K190771,p.2
+XPERT_MRSASA_BC,resistance_marker,"Sequence specific to methicillin/oxacillin resistance (mecA gene) [comparison table, not IFU]",mecA,mec (mecA/mecC),S. aureus,K190771,p.3
+BD_GENEOHM_STAPHSR,organism,Staphylococcus aureus,Staphylococcus aureus,,,K071026,IFU (section H.1)
+BD_GENEOHM_STAPHSR,resistance_phenotype,methicillin-resistant Staphylococcus aureus (MRSA),MRSA,methicillin resistance (phenotype),S. aureus,K071026,IFU (section H.1)
+KEYPATH_MRSA,organism,Staphylococcus aureus,Staphylococcus aureus,,,K120563,p.2
+KEYPATH_MRSA,resistance_phenotype,methicillin resistance (MRSA) / methicillin susceptibility (MSSA) via phenotypic response to cefoxitin,"MRSA (phenotypic, cefoxitin)",methicillin resistance (phenotype),S. aureus,K120563,p.2
+ACCELERATE_PHENO,organism,Staphylococcus aureus,Staphylococcus aureus,,,K192665,p.2
+ACCELERATE_PHENO,organism,Staphylococcus lugdunensis,Staphylococcus lugdunensis,,,K192665,p.2
+ACCELERATE_PHENO,organism,Coagulase-negative Staphylococcus species (not differentiated),coagulase-negative Staphylococcus spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,Enterococcus faecalis,Enterococcus faecalis,,,K192665,p.2
+ACCELERATE_PHENO,organism,Enterococcus faecium,Enterococcus faecium,,,K192665,p.2
+ACCELERATE_PHENO,organism,Streptococcus spp. (not differentiated),Streptococcus spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,Pseudomonas aeruginosa,Pseudomonas aeruginosa,,,K192665,p.2
+ACCELERATE_PHENO,organism,Acinetobacter baumannii,Acinetobacter baumannii complex,,,K192665,p.2
+ACCELERATE_PHENO,organism,"Klebsiella spp. (K. pneumoniae, K. oxytoca, not differentiated)",Klebsiella spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,Escherichia coli,Escherichia coli,,,K192665,p.2
+ACCELERATE_PHENO,organism,"Enterobacter spp. (E. cloacae, E. (Klebsiella) aerogenes, not differentiated)",Enterobacter spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,"Proteus spp. (P. mirabilis, P. vulgaris, not differentiated)",Proteus spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,"Citrobacter spp. (C. freundii, C. koseri, not differentiated)",Citrobacter spp.,,,K192665,p.2
+ACCELERATE_PHENO,organism,Serratia marcescens,Serratia marcescens,,,K192665,p.2
+ACCELERATE_PHENO,organism,Candida albicans,Candida albicans,,,K192665,p.2
+ACCELERATE_PHENO,organism,Candida glabrata,Candida glabrata,,,K192665,p.2
+ACCELERATE_PHENO,resistance_phenotype,Methicillin-resistance (qualitative),MRSA/MR-CoNS (phenotypic),methicillin resistance (phenotype),Staphylococcus,K192665,p.4
+SELUX_PBC,resistance_phenotype,Cefoxitin Screen to predict mecA-mediated oxacillin resistance,"MRSA (phenotypic, cefoxitin)",methicillin resistance (phenotype),Staphylococcus aureus,K244044,p.4
+VITEK_REVEAL_GN,resistance_phenotype,ESBL Confirmation test,ESBL (phenotypic),ESBL (phenotypic),"Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae group",K260160,p.4
+ADVANDX_MECA_XPRESSFISH,organism,Staphylococcus aureus (blood cultures positive for S. aureus by QuickFISH BC),Staphylococcus aureus,,,K140619,p.2
+ADVANDX_MECA_XPRESSFISH,resistance_marker,mecA mRNA,mecA,mec (mecA/mecC),S. aureus only; not for mixed cultures incl. S. aureus + coagulase negative staphylococci,K140619,p.2
+ADVANDX_MECA_XPRESSFISH,resistance_phenotype,methicillin-resistant S. aureus (MRSA),MRSA,methicillin resistance (phenotype),S. aureus,K140619,p.2

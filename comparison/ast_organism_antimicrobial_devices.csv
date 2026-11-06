@@ -1,0 +1,293 @@
+organism_normalized,antimicrobial,n_devices,devices
+Acinetobacter baumannii complex,Amikacin,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Acinetobacter baumannii complex,Ampicillin-sulbactam,3,ASTAR_BCGN; PHAST_BCGN; SELUX_PBC
+Acinetobacter baumannii complex,Cefotaxime,1,VITEK_REVEAL_GN
+Acinetobacter baumannii complex,Ceftazidime,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Acinetobacter baumannii complex,Imipenem,2,SELUX_PBC; VITEK_REVEAL_GN
+Acinetobacter baumannii complex,Meropenem,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Acinetobacter baumannii complex,Minocycline,1,SELUX_PBC
+Acinetobacter baumannii complex,Piperacillin-tazobactam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+"Acinetobacter spp. (non-baumannii, as listed)",Amikacin,1,LIFESCALE_LSGN
+"Acinetobacter spp. (non-baumannii, as listed)",Ceftazidime,1,LIFESCALE_LSGN
+"Acinetobacter spp. (non-baumannii, as listed)",Meropenem,1,LIFESCALE_LSGN
+Citrobacter freundii (incl. complex),Amikacin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Aztreonam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Cefepime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Citrobacter freundii (incl. complex),Cefotaxime,1,ASTAR_BCGN
+Citrobacter freundii (incl. complex),Ceftazidime,3,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN
+Citrobacter freundii (incl. complex),Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Ceftolozane-tazobactam,1,ASTAR_BCGN
+Citrobacter freundii (incl. complex),Ceftriaxone,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC
+Citrobacter freundii (incl. complex),Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Ertapenem,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Citrobacter freundii (incl. complex),Gentamicin,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Meropenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Citrobacter freundii (incl. complex),Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Piperacillin-tazobactam,2,ACCELERATE_PHENO; ASTAR_BCGN
+Citrobacter freundii (incl. complex),Tigecycline,1,ASTAR_BCGN
+Citrobacter freundii (incl. complex),Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter freundii (incl. complex),Trimethoprim-sulfamethoxazole,1,ASTAR_BCGN
+Citrobacter koseri,Amikacin,3,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN
+Citrobacter koseri,Ampicillin-sulbactam,2,ASTAR_BCGN; SELUX_PBC
+Citrobacter koseri,Aztreonam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN
+Citrobacter koseri,Cefazolin,1,ASTAR_BCGN
+Citrobacter koseri,Cefepime,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter koseri,Cefotaxime,1,ASTAR_BCGN
+Citrobacter koseri,Cefoxitin,1,ASTAR_BCGN
+Citrobacter koseri,Ceftazidime,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Citrobacter koseri,Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter koseri,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Citrobacter koseri,Ceftriaxone,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC
+Citrobacter koseri,Cefuroxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Citrobacter koseri,Ciprofloxacin,3,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC
+Citrobacter koseri,Ertapenem,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Citrobacter koseri,Gentamicin,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter koseri,Imipenem,1,VITEK_REVEAL_GN
+Citrobacter koseri,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter koseri,Meropenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Citrobacter koseri,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Citrobacter koseri,Piperacillin-tazobactam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Citrobacter koseri,Tigecycline,1,ASTAR_BCGN
+Citrobacter koseri,Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Citrobacter koseri,Trimethoprim-sulfamethoxazole,2,ASTAR_BCGN; PHAST_BCGN
+coagulase-negative Staphylococcus spp.,Daptomycin,1,ACCELERATE_PHENO
+coagulase-negative Staphylococcus spp.,Vancomycin,1,ACCELERATE_PHENO
+Enterobacter cloacae complex,Amikacin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Aztreonam,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Cefepime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Cefotaxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ceftazidime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Ertapenem,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Enterobacter cloacae complex,Gentamicin,4,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Enterobacter cloacae complex,Imipenem,1,VITEK_REVEAL_GN
+Enterobacter cloacae complex,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Meropenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Piperacillin-tazobactam,2,ACCELERATE_PHENO; PHAST_BCGN
+Enterobacter cloacae complex,Tigecycline,1,ASTAR_BCGN
+Enterobacter cloacae complex,Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Enterobacter cloacae complex,Trimethoprim-sulfamethoxazole,2,ASTAR_BCGN; LIFESCALE_LSGN
+Enterococcus faecalis,Ampicillin,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecalis,Daptomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecalis,Linezolid,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecalis,Vancomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecium,Ampicillin,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecium,Daptomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecium,Linezolid,2,ACCELERATE_PHENO; SELUX_PBC
+Enterococcus faecium,Vancomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Escherichia coli,Amikacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Amoxicillin-clavulanate,2,SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Ampicillin,3,ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Escherichia coli,Ampicillin-sulbactam,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Aztreonam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Escherichia coli,Cefazolin,3,ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Escherichia coli,Cefepime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Cefotaxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Escherichia coli,Cefoxitin,1,ASTAR_BCGN
+Escherichia coli,Ceftazidime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Escherichia coli,Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Cefuroxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Escherichia coli,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Ertapenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Gentamicin,5,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Imipenem,2,SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Escherichia coli,Meropenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Escherichia coli,Minocycline,1,SELUX_PBC
+Escherichia coli,Piperacillin-tazobactam,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Tetracycline,1,VITEK_REVEAL_GN
+Escherichia coli,Tigecycline,1,ASTAR_BCGN
+Escherichia coli,Tobramycin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Escherichia coli,Trimethoprim-sulfamethoxazole,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Amikacin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Aztreonam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN
+Klebsiella aerogenes,Cefepime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella aerogenes,Cefotaxime,1,VITEK_REVEAL_GN
+Klebsiella aerogenes,Ceftazidime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella aerogenes,Ceftolozane-tazobactam,1,VITEK_REVEAL_GN
+Klebsiella aerogenes,Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella aerogenes,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella aerogenes,Ertapenem,4,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Klebsiella aerogenes,Gentamicin,5,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella aerogenes,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Meropenem,3,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN
+Klebsiella aerogenes,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Piperacillin-tazobactam,3,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN
+Klebsiella aerogenes,Tetracycline,1,VITEK_REVEAL_GN
+Klebsiella aerogenes,Tigecycline,1,ASTAR_BCGN
+Klebsiella aerogenes,Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella aerogenes,Trimethoprim-sulfamethoxazole,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Amikacin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Amoxicillin-clavulanate,2,SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella oxytoca,Ampicillin-sulbactam,3,ACCELERATE_PHENO; ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Aztreonam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Cefazolin,1,ASTAR_BCGN
+Klebsiella oxytoca,Cefepime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella oxytoca,Cefotaxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Cefoxitin,1,ASTAR_BCGN
+Klebsiella oxytoca,Ceftazidime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Ceftazidime-avibactam,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Klebsiella oxytoca,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella oxytoca,Cefuroxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella oxytoca,Ertapenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Klebsiella oxytoca,Gentamicin,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella oxytoca,Imipenem,1,VITEK_REVEAL_GN
+Klebsiella oxytoca,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Meropenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Klebsiella oxytoca,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Piperacillin-tazobactam,2,ACCELERATE_PHENO; PHAST_BCGN
+Klebsiella oxytoca,Tetracycline,1,VITEK_REVEAL_GN
+Klebsiella oxytoca,Tigecycline,1,ASTAR_BCGN
+Klebsiella oxytoca,Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella oxytoca,Trimethoprim-sulfamethoxazole,2,ASTAR_BCGN; LIFESCALE_LSGN
+Klebsiella pneumoniae (incl. group),Amikacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Amoxicillin-clavulanate,2,SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Ampicillin-sulbactam,3,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC
+Klebsiella pneumoniae (incl. group),Aztreonam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Cefazolin,3,ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Klebsiella pneumoniae (incl. group),Cefepime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Cefotaxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Cefoxitin,1,ASTAR_BCGN
+Klebsiella pneumoniae (incl. group),Ceftazidime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Ceftolozane-tazobactam,1,ASTAR_BCGN
+Klebsiella pneumoniae (incl. group),Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Cefuroxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Ertapenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Gentamicin,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Imipenem,2,SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Meropenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Minocycline,1,SELUX_PBC
+Klebsiella pneumoniae (incl. group),Piperacillin-tazobactam,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Tetracycline,1,VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Tigecycline,1,ASTAR_BCGN
+Klebsiella pneumoniae (incl. group),Tobramycin,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Klebsiella pneumoniae (incl. group),Trimethoprim-sulfamethoxazole,3,ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Klebsiella variicola,Cefazolin,1,LIFESCALE_LSGN
+Klebsiella variicola,Ceftazidime,1,LIFESCALE_LSGN
+Klebsiella variicola,Gentamicin,1,LIFESCALE_LSGN
+Klebsiella variicola,Trimethoprim-sulfamethoxazole,1,LIFESCALE_LSGN
+Morganella morganii,Amikacin,1,ASTAR_BCGN
+Morganella morganii,Ampicillin-sulbactam,1,ASTAR_BCGN
+Morganella morganii,Aztreonam,2,ASTAR_BCGN; LIFESCALE_LSGN
+Morganella morganii,Cefepime,2,LIFESCALE_LSGN; SELUX_PBC
+Morganella morganii,Ceftazidime,2,ASTAR_BCGN; LIFESCALE_LSGN
+Morganella morganii,Ceftazidime-avibactam,3,ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Morganella morganii,Ciprofloxacin,2,ASTAR_BCGN; SELUX_PBC
+Morganella morganii,Ertapenem,2,LIFESCALE_LSGN; SELUX_PBC
+Morganella morganii,Gentamicin,2,ASTAR_BCGN; SELUX_PBC
+Morganella morganii,Levofloxacin,2,ASTAR_BCGN; LIFESCALE_LSGN
+Morganella morganii,Meropenem,2,ASTAR_BCGN; SELUX_PBC
+Morganella morganii,Meropenem-vaborbactam,2,ASTAR_BCGN; LIFESCALE_LSGN
+Morganella morganii,Piperacillin-tazobactam,2,ASTAR_BCGN; SELUX_PBC
+Morganella morganii,Trimethoprim-sulfamethoxazole,2,ASTAR_BCGN; LIFESCALE_LSGN
+Proteus mirabilis,Amikacin,3,ACCELERATE_PHENO; ASTAR_BCGN; VITEK_REVEAL_GN
+Proteus mirabilis,Amoxicillin-clavulanate,2,SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Ampicillin,3,ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Proteus mirabilis,Ampicillin-sulbactam,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Aztreonam,3,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN
+Proteus mirabilis,Cefazolin,1,ASTAR_BCGN
+Proteus mirabilis,Cefepime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Proteus mirabilis,Cefotaxime,1,ASTAR_BCGN
+Proteus mirabilis,Cefoxitin,1,ASTAR_BCGN
+Proteus mirabilis,Ceftazidime,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN
+Proteus mirabilis,Ceftazidime-avibactam,5,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Proteus mirabilis,Ceftriaxone,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Cefuroxime,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Proteus mirabilis,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Ertapenem,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Gentamicin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Proteus mirabilis,Meropenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus mirabilis,Meropenem-vaborbactam,3,ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Proteus mirabilis,Piperacillin-tazobactam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Proteus mirabilis,Tobramycin,3,ACCELERATE_PHENO; ASTAR_BCGN; VITEK_REVEAL_GN
+Proteus mirabilis,Trimethoprim-sulfamethoxazole,1,LIFESCALE_LSGN
+Proteus vulgaris (incl. group),Amikacin,2,ACCELERATE_PHENO; ASTAR_BCGN
+Proteus vulgaris (incl. group),Amoxicillin-clavulanate,1,SELUX_PBC
+Proteus vulgaris (incl. group),Ampicillin-sulbactam,2,ACCELERATE_PHENO; ASTAR_BCGN
+Proteus vulgaris (incl. group),Aztreonam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN
+Proteus vulgaris (incl. group),Cefepime,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Proteus vulgaris (incl. group),Cefotaxime,1,ASTAR_BCGN
+Proteus vulgaris (incl. group),Ceftazidime,3,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN
+Proteus vulgaris (incl. group),Ceftazidime-avibactam,3,ASTAR_BCGN; PHAST_BCGN; SELUX_PBC
+Proteus vulgaris (incl. group),Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Ceftriaxone,2,ACCELERATE_PHENO; ASTAR_BCGN
+Proteus vulgaris (incl. group),Ciprofloxacin,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Ertapenem,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Gentamicin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Meropenem,4,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Meropenem-vaborbactam,1,ASTAR_BCGN
+Proteus vulgaris (incl. group),Piperacillin-tazobactam,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Proteus vulgaris (incl. group),Tobramycin,3,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN
+Proteus vulgaris (incl. group),Trimethoprim-sulfamethoxazole,2,ASTAR_BCGN; LIFESCALE_LSGN
+Providencia rettgeri,Aztreonam,1,LIFESCALE_LSGN
+Providencia rettgeri,Cefepime,1,LIFESCALE_LSGN
+Providencia rettgeri,Ceftazidime-avibactam,1,LIFESCALE_LSGN
+Providencia rettgeri,Ertapenem,1,LIFESCALE_LSGN
+Providencia rettgeri,Levofloxacin,1,LIFESCALE_LSGN
+Providencia rettgeri,Meropenem-vaborbactam,1,LIFESCALE_LSGN
+Providencia rettgeri,Piperacillin-tazobactam,1,LIFESCALE_LSGN
+Providencia stuartii,Aztreonam,1,LIFESCALE_LSGN
+Providencia stuartii,Cefepime,1,LIFESCALE_LSGN
+Providencia stuartii,Ceftazidime,1,LIFESCALE_LSGN
+Providencia stuartii,Ceftazidime-avibactam,1,LIFESCALE_LSGN
+Providencia stuartii,Ertapenem,1,LIFESCALE_LSGN
+Providencia stuartii,Levofloxacin,1,LIFESCALE_LSGN
+Providencia stuartii,Meropenem-vaborbactam,1,LIFESCALE_LSGN
+Providencia stuartii,Piperacillin-tazobactam,1,LIFESCALE_LSGN
+Pseudomonas aeruginosa,Amikacin,2,ACCELERATE_PHENO; SELUX_PBC
+Pseudomonas aeruginosa,Aztreonam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Cefepime,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Ceftazidime,5,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Ceftazidime-avibactam,4,ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Ceftolozane-tazobactam,2,ASTAR_BCGN; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Gentamicin,2,ACCELERATE_PHENO; SELUX_PBC
+Pseudomonas aeruginosa,Imipenem,1,VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Meropenem,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Pseudomonas aeruginosa,Piperacillin-tazobactam,4,ACCELERATE_PHENO; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Pseudomonas aeruginosa,Tobramycin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Salmonella spp.,Ampicillin,1,LIFESCALE_LSGN
+Serratia marcescens,Amikacin,4,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; VITEK_REVEAL_GN
+Serratia marcescens,Aztreonam,3,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN
+Serratia marcescens,Cefepime,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Serratia marcescens,Cefotaxime,1,ASTAR_BCGN
+Serratia marcescens,Ceftazidime,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN
+Serratia marcescens,Ceftazidime-avibactam,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC
+Serratia marcescens,Ceftolozane-tazobactam,1,ASTAR_BCGN
+Serratia marcescens,Ceftriaxone,3,ACCELERATE_PHENO; ASTAR_BCGN; SELUX_PBC
+Serratia marcescens,Ciprofloxacin,5,ACCELERATE_PHENO; ASTAR_BCGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Serratia marcescens,Ertapenem,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Serratia marcescens,Gentamicin,6,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; SELUX_PBC; VITEK_REVEAL_GN
+Serratia marcescens,Imipenem,1,VITEK_REVEAL_GN
+Serratia marcescens,Levofloxacin,4,ASTAR_BCGN; LIFESCALE_LSGN; PHAST_BCGN; VITEK_REVEAL_GN
+Serratia marcescens,Meropenem,5,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC; VITEK_REVEAL_GN
+Serratia marcescens,Meropenem-vaborbactam,2,ASTAR_BCGN; LIFESCALE_LSGN
+Serratia marcescens,Piperacillin-tazobactam,4,ACCELERATE_PHENO; ASTAR_BCGN; LIFESCALE_LSGN; SELUX_PBC
+Serratia marcescens,Tigecycline,1,ASTAR_BCGN
+Serratia marcescens,Tobramycin,2,ACCELERATE_PHENO; VITEK_REVEAL_GN
+Serratia marcescens,Trimethoprim-sulfamethoxazole,1,PHAST_BCGN
+Staphylococcus aureus,Ceftaroline,2,ACCELERATE_PHENO; SELUX_PBC
+Staphylococcus aureus,Daptomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Staphylococcus aureus,Linezolid,2,ACCELERATE_PHENO; SELUX_PBC
+Staphylococcus aureus,Oxacillin,1,SELUX_PBC
+Staphylococcus aureus,Vancomycin,2,ACCELERATE_PHENO; SELUX_PBC
+Staphylococcus lugdunensis,Vancomycin,1,ACCELERATE_PHENO

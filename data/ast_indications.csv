@@ -1,0 +1,842 @@
+family_id,antimicrobial,organism_as_listed,organism_normalized,source_document,source_page
+ACCELERATE_PHENO,Amikacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.2
+ACCELERATE_PHENO,Amikacin,Acinetobacter baumannii,Acinetobacter baumannii complex,K192665,p.2
+ACCELERATE_PHENO,Amikacin,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.2
+ACCELERATE_PHENO,Amikacin,Escherichia coli,Escherichia coli,K192665,p.2
+ACCELERATE_PHENO,Amikacin,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.2
+ACCELERATE_PHENO,Amikacin,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.2
+ACCELERATE_PHENO,Amikacin,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.2
+ACCELERATE_PHENO,Amikacin,Serratia marcescens,Serratia marcescens,K192665,p.2
+ACCELERATE_PHENO,Ampicillin,Enterococcus faecalis,Enterococcus faecalis,K192665,p.2
+ACCELERATE_PHENO,Ampicillin,Enterococcus faecium,Enterococcus faecium,K192665,p.2
+ACCELERATE_PHENO,Ampicillin-sulbactam,Escherichia coli,Escherichia coli,K192665,p.3
+ACCELERATE_PHENO,Ampicillin-sulbactam,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3
+ACCELERATE_PHENO,Ampicillin-sulbactam,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3
+ACCELERATE_PHENO,Aztreonam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Aztreonam,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Ceftazidime,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Cefepime,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Ciprofloxacin,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Meropenem,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,Escherichia coli,Escherichia coli,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3-4
+ACCELERATE_PHENO,Tobramycin,Serratia marcescens,Serratia marcescens,K192665,p.3-4
+ACCELERATE_PHENO,Gentamicin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,Escherichia coli,Escherichia coli,K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,pp.3-4
+ACCELERATE_PHENO,Gentamicin,Serratia marcescens,Serratia marcescens,K192665,pp.3-4
+ACCELERATE_PHENO,Ceftriaxone,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3
+ACCELERATE_PHENO,Ceftriaxone,Escherichia coli,Escherichia coli,K192665,p.3
+ACCELERATE_PHENO,Ceftriaxone,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3
+ACCELERATE_PHENO,Ceftriaxone,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3
+ACCELERATE_PHENO,Ceftriaxone,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3
+ACCELERATE_PHENO,Ceftriaxone,Serratia marcescens,Serratia marcescens,K192665,p.3
+ACCELERATE_PHENO,Ertapenem,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.3
+ACCELERATE_PHENO,Ertapenem,Escherichia coli,Escherichia coli,K192665,p.3
+ACCELERATE_PHENO,Ertapenem,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.3
+ACCELERATE_PHENO,Ertapenem,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.3
+ACCELERATE_PHENO,Ertapenem,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.3
+ACCELERATE_PHENO,Ertapenem,Serratia marcescens,Serratia marcescens,K192665,p.3
+ACCELERATE_PHENO,Ceftaroline,Staphylococcus aureus,Staphylococcus aureus,K192665,p.3
+ACCELERATE_PHENO,Daptomycin,Staphylococcus aureus,Staphylococcus aureus,K192665,p.3
+ACCELERATE_PHENO,Daptomycin,coagulase-negative Staphylococcus spp.,coagulase-negative Staphylococcus spp.,K192665,p.3
+ACCELERATE_PHENO,Daptomycin,Enterococcus faecalis,Enterococcus faecalis,K192665,p.3
+ACCELERATE_PHENO,Daptomycin,Enterococcus faecium,Enterococcus faecium,K192665,p.3
+ACCELERATE_PHENO,Linezolid,Staphylococcus aureus,Staphylococcus aureus,K192665,p.4
+ACCELERATE_PHENO,Linezolid,Enterococcus faecalis,Enterococcus faecalis,K192665,p.4
+ACCELERATE_PHENO,Linezolid,Enterococcus faecium,Enterococcus faecium,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,Acinetobacter baumannii,Acinetobacter baumannii complex,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,"Klebsiella spp. (K. pneumoniae, K. oxytoca)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,"Enterobacter spp. (E. cloacae, K. aerogenes)",Enterobacter cloacae complex; Klebsiella aerogenes,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,"Proteus spp. (P. mirabilis, P. vulgaris)",Proteus mirabilis; Proteus vulgaris (incl. group),K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,"Citrobacter spp. (C. freundii, C. koseri)",Citrobacter freundii (incl. complex); Citrobacter koseri,K192665,p.4
+ACCELERATE_PHENO,Piperacillin-tazobactam,Serratia marcescens,Serratia marcescens,K192665,p.4
+ACCELERATE_PHENO,Vancomycin,Staphylococcus aureus,Staphylococcus aureus,K192665,p.4
+ACCELERATE_PHENO,Vancomycin,Staphylococcus lugdunensis,Staphylococcus lugdunensis,K192665,p.4
+ACCELERATE_PHENO,Vancomycin,coagulase-negative Staphylococcus spp.,coagulase-negative Staphylococcus spp.,K192665,p.4
+ACCELERATE_PHENO,Vancomycin,Enterococcus faecalis,Enterococcus faecalis,K192665,p.4
+ACCELERATE_PHENO,Vancomycin,Enterococcus faecium,Enterococcus faecium,K192665,p.4
+VITEK_REVEAL_GN,Amikacin,Acinetobacter baumannii-calcoaceticus complex,Acinetobacter baumannii complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Amikacin,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Amoxicillin-clavulanate,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Amoxicillin-clavulanate,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Amoxicillin-clavulanate,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Amoxicillin-clavulanate,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ampicillin-sulbactam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ampicillin-sulbactam,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Ampicillin-sulbactam,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Aztreonam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Acinetobacter baumannii-calcoaceticus complex,Acinetobacter baumannii complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefotaxime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Acinetobacter baumannii-calcoaceticus complex,Acinetobacter baumannii complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftazidime-avibactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftolozane-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ceftriaxone,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefuroxime,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefuroxime,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefuroxime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Cefuroxime,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Cefuroxime,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Ciprofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Ertapenem,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Ertapenem,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Ertapenem,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Ertapenem,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Gentamicin,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Acinetobacter baumannii-calcoaceticus complex,Acinetobacter baumannii complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Imipenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Levofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Acinetobacter baumannii-calcoaceticus complex,Acinetobacter baumannii complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Meropenem-vaborbactam,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Piperacillin-tazobactam,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Piperacillin-tazobactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Piperacillin-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Tetracycline,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Tetracycline,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Tetracycline,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Tetracycline,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Citrobacter koseri,Citrobacter koseri,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Enterobacter cloacae complex,Enterobacter cloacae complex,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Klebsiella oxytoca,Klebsiella oxytoca,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Proteus mirabilis,Proteus mirabilis,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Serratia marcescens,Serratia marcescens,K260160,pp.2-4
+VITEK_REVEAL_GN,Tobramycin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K260160,pp.2-4
+VITEK_REVEAL_GN,Trimethoprim-sulfamethoxazole,Escherichia coli,Escherichia coli,K260160,pp.2-4
+VITEK_REVEAL_GN,Trimethoprim-sulfamethoxazole,Klebsiella aerogenes,Klebsiella aerogenes,K260160,pp.2-4
+VITEK_REVEAL_GN,Trimethoprim-sulfamethoxazole,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K260160,pp.2-4
+ASTAR_BCGN,Amikacin,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Amikacin,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ampicillin-sulbactam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Aztreonam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Cefazolin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Cefazolin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Cefazolin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Cefazolin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefazolin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefotaxime,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Cefoxitin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Cefoxitin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Cefoxitin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Cefoxitin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefoxitin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Ceftazidime-avibactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Ceftolozane-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ceftriaxone,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Cefuroxime,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Cefuroxime,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Cefuroxime,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Cefuroxime,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Cefuroxime,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Ciprofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Ertapenem,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Gentamicin,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Levofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Meropenem-vaborbactam,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Piperacillin-tazobactam,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Tigecycline,Serratia marcescens,Serratia marcescens,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Proteus mirabilis,Proteus mirabilis,K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Tobramycin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Citrobacter koseri,Citrobacter koseri,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Enterobacter cloacae complex,Enterobacter cloacae complex,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Escherichia coli,Escherichia coli,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Klebsiella aerogenes,Klebsiella aerogenes,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Klebsiella oxytoca,Klebsiella oxytoca,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Klebsiella pneumoniae group,Klebsiella pneumoniae (incl. group),K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Morganella morganii,Morganella morganii,K253573,pp.3-5
+ASTAR_BCGN,Trimethoprim-sulfamethoxazole,Proteus vulgaris,Proteus vulgaris (incl. group),K253573,pp.3-5
+LIFESCALE_LSGN,Amikacin,"Acinetobacter spp. (A. baumannii complex, A. calcoaceticus, A. lwoffii, A. pittii, A. radioresistens, A. ursingii)","Acinetobacter baumannii complex; Acinetobacter spp. (non-baumannii, as listed)",K251875,pp.4-5
+LIFESCALE_LSGN,Ampicillin,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Ampicillin,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Ampicillin,Salmonella spp.,Salmonella spp.,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Aztreonam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Cefazolin,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Cefazolin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Cefazolin,Klebsiella variicola,Klebsiella variicola,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,"Acinetobacter spp. (A. baumannii complex, A. calcoaceticus, A. lwoffii, A. pittii, A. radioresistens)","Acinetobacter baumannii complex; Acinetobacter spp. (non-baumannii, as listed)",K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Klebsiella variicola,Klebsiella variicola,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Ceftazidime-avibactam,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Ertapenem,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Klebsiella variicola,Klebsiella variicola,K251875,pp.4-5
+LIFESCALE_LSGN,Gentamicin,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Levofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,"Acinetobacter spp. (A. baumannii complex, A. calcoaceticus, A. lwoffii, A. pittii, A. radioresistens, A. ursingii)","Acinetobacter baumannii complex; Acinetobacter spp. (non-baumannii, as listed)",K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Citrobacter freundii,Citrobacter freundii (incl. complex),K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Meropenem-vaborbactam,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Acinetobacter spp. (A. baumannii complex),Acinetobacter baumannii complex,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Citrobacter koseri,Citrobacter koseri,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Providencia rettgeri,Providencia rettgeri,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Providencia stuartii,Providencia stuartii,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Serratia marcescens,Serratia marcescens,K251875,pp.4-5
+LIFESCALE_LSGN,Piperacillin-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Enterobacter cloacae complex,Enterobacter cloacae complex,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Escherichia coli,Escherichia coli,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Klebsiella aerogenes,Klebsiella aerogenes,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Klebsiella oxytoca,Klebsiella oxytoca,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Klebsiella variicola,Klebsiella variicola,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Morganella morganii,Morganella morganii,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Proteus mirabilis,Proteus mirabilis,K251875,pp.4-5
+LIFESCALE_LSGN,Trimethoprim-sulfamethoxazole,Proteus vulgaris,Proteus vulgaris (incl. group),K251875,pp.4-5
+SELUX_PBC,Amikacin,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Amikacin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Amikacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Amikacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Amoxicillin-clavulanate,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Amoxicillin-clavulanate,"Klebsiella spp. (K. oxytoca, K. pneumoniae)",Klebsiella pneumoniae (incl. group); Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Amoxicillin-clavulanate,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Amoxicillin-clavulanate,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Ampicillin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ampicillin,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Ampicillin-sulbactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Ampicillin-sulbactam,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Ampicillin-sulbactam,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ampicillin-sulbactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ampicillin-sulbactam,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Cefazolin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Cefazolin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Cefepime,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Cefepime,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Cefepime,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Cefepime,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Cefepime,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Cefepime,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Cefepime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Cefepime,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Cefepime,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Cefepime,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Cefepime,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Ceftazidime,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ceftazidime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ceftazidime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Ceftazidime-avibactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Ceftriaxone,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Ciprofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Ertapenem,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Ertapenem,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Ertapenem,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Ertapenem,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Gentamicin,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Klebsiella aerogenes,Klebsiella aerogenes,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Gentamicin,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Gentamicin,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Gentamicin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Imipenem,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Imipenem,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Imipenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Meropenem,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Meropenem,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K244044,pp.3-4
+SELUX_PBC,Meropenem,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Meropenem,Enterobacter cloacae complex,Enterobacter cloacae complex,K244044,pp.3-4
+SELUX_PBC,Meropenem,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Meropenem,Klebsiella oxytoca,Klebsiella oxytoca,K244044,pp.3-4
+SELUX_PBC,Meropenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Meropenem,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Meropenem,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Meropenem,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Meropenem,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Minocycline,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Minocycline,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Minocycline,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Citrobacter koseri,Citrobacter koseri,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Morganella morganii,Morganella morganii,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Proteus mirabilis,Proteus mirabilis,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Proteus vulgaris,Proteus vulgaris (incl. group),K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Serratia marcescens,Serratia marcescens,K244044,pp.3-4
+SELUX_PBC,Piperacillin-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Tobramycin,Escherichia coli,Escherichia coli,K244044,pp.3-4
+SELUX_PBC,Tobramycin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K244044,pp.3-4
+SELUX_PBC,Tobramycin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K244044,pp.3-4
+SELUX_PBC,Ampicillin,Enterococcus faecalis,Enterococcus faecalis,K244044,pp.3-4
+SELUX_PBC,Ampicillin,Enterococcus faecium,Enterococcus faecium,K244044,pp.3-4
+SELUX_PBC,Ceftaroline,Staphylococcus aureus,Staphylococcus aureus,K244044,pp.3-4
+SELUX_PBC,Daptomycin,Enterococcus faecalis,Enterococcus faecalis,K244044,pp.3-4
+SELUX_PBC,Daptomycin,Enterococcus faecium,Enterococcus faecium,K244044,pp.3-4
+SELUX_PBC,Daptomycin,Staphylococcus aureus,Staphylococcus aureus,K244044,pp.3-4
+SELUX_PBC,Linezolid,Enterococcus faecalis,Enterococcus faecalis,K244044,pp.3-4
+SELUX_PBC,Linezolid,Enterococcus faecium,Enterococcus faecium,K244044,pp.3-4
+SELUX_PBC,Linezolid,Staphylococcus aureus,Staphylococcus aureus,K244044,pp.3-4
+SELUX_PBC,Oxacillin,Staphylococcus aureus,Staphylococcus aureus,K244044,pp.3-4
+SELUX_PBC,Vancomycin,Enterococcus faecalis,Enterococcus faecalis,K244044,pp.3-4
+SELUX_PBC,Vancomycin,Enterococcus faecium,Enterococcus faecium,K244044,pp.3-4
+SELUX_PBC,Vancomycin,Staphylococcus aureus,Staphylococcus aureus,K244044,pp.3-4
+PHAST_BCGN,Amikacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Amikacin,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Amikacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Amikacin,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Amikacin,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Amikacin,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Amikacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Amikacin,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Ampicillin-sulbactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Aztreonam,Proteus vulgaris group,Proteus vulgaris (incl. group),K253316,pp.4-5
+PHAST_BCGN,Cefepime,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Cefepime,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Cefepime,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Cefepime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Proteus vulgaris group,Proteus vulgaris (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Ceftazidime-avibactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ceftriaxone,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Ciprofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Ertapenem,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Ertapenem,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Ertapenem,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Ertapenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Ertapenem,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Proteus vulgaris group,Proteus vulgaris (incl. group),K253316,pp.4-5
+PHAST_BCGN,Gentamicin,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Proteus vulgaris group,Proteus vulgaris (incl. group),K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Serratia marcescens,Serratia marcescens,K253316,pp.4-5
+PHAST_BCGN,Levofloxacin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Meropenem,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Meropenem,Proteus mirabilis,Proteus mirabilis,K253316,pp.4-5
+PHAST_BCGN,Meropenem,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Acinetobacter baumannii complex,Acinetobacter baumannii complex,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Piperacillin-tazobactam,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Citrobacter freundii complex,Citrobacter freundii (incl. complex),K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Enterobacter cloacae complex,Enterobacter cloacae complex,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Klebsiella oxytoca,Klebsiella oxytoca,K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Proteus vulgaris group,Proteus vulgaris (incl. group),K253316,pp.4-5
+PHAST_BCGN,Tobramycin,Pseudomonas aeruginosa,Pseudomonas aeruginosa,K253316,pp.4-5
+PHAST_BCGN,Trimethoprim-sulfamethoxazole,Citrobacter koseri,Citrobacter koseri,K253316,pp.4-5
+PHAST_BCGN,Trimethoprim-sulfamethoxazole,Escherichia coli,Escherichia coli,K253316,pp.4-5
+PHAST_BCGN,Trimethoprim-sulfamethoxazole,Klebsiella aerogenes,Klebsiella aerogenes,K253316,pp.4-5
+PHAST_BCGN,Trimethoprim-sulfamethoxazole,Klebsiella pneumoniae,Klebsiella pneumoniae (incl. group),K253316,pp.4-5
+PHAST_BCGN,Trimethoprim-sulfamethoxazole,Serratia marcescens,Serratia marcescens,K253316,pp.4-5

@@ -1,0 +1,43 @@
+{
+  "title": "FDA-Cleared Rapid Resistance Test Landscape: a device-by-target dataset of rapid blood culture identification/resistance panels and rapid phenotypic susceptibility systems",
+  "upload_type": "dataset",
+  "description": "<p>An open dataset of FDA-cleared and De Novo-authorized rapid molecular blood culture identification and resistance panels and rapid phenotypic antimicrobial susceptibility systems for positive blood cultures. For each device family it records organism and resistance targets, antimicrobial-organism indications, specimen type, and labeled limitations, including what a negative result does and does not rule out. Every row is traced to a 510(k) or De Novo number, decision date and page of the FDA source document. Includes derived comparison tables by target, organism and antimicrobial, a codebook, provenance log and validation scripts.</p><p>This is a regulatory-labeling reference, not a performance comparison.</p>",
+  "creators": [
+    {
+      "name": "Abdulwahab, Fatima",
+      "affiliation": "Independent researcher, Dallas, Texas, USA",
+      "orcid": "0009-0008-2298-8386"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "keywords": [
+    "antimicrobial resistance",
+    "bloodstream infection",
+    "blood culture identification",
+    "rapid antimicrobial susceptibility testing",
+    "FDA 510(k)",
+    "De Novo",
+    "clinical microbiology",
+    "in vitro diagnostics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/FatimaAbdulwahab/us-rapid-panel-amr-concordance",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/FatimaAbdulwahab/ar-isolate-bank-panel-crosswalk",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://open.fda.gov/apis/device/510k/",
+      "relation": "isDerivedFrom"
+    }
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "publication_date": "2026-11-06"
+}
