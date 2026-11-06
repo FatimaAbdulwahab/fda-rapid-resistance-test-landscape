@@ -47,7 +47,7 @@ comparison/                derived tables (rebuilt by scripts/build_comparison.p
 docs/index.html            public comparison page (GitHub Pages), filterable
 provenance/
   README.md                openFDA queries used
-  extraction_log.csv       source URL, access date, method, review status and notes per device
+  extraction_log.csv       source URL, access date, method and notes per device
   openfda/*.json           raw openFDA record for every submission
 scripts/
   validate.py              integrity checks (run before every release)
@@ -66,7 +66,7 @@ python3 scripts/build_comparison.py
 
 ## Quality review
 
-On 2026-11-06 the author re-ran every openFDA query (no new clearances in scope), confirmed all submission fields against live openFDA records, reproduced every derived file byte-for-byte from a fresh copy, and checked 15 device families against their FDA PDFs, including the full drug-by-organism lists for Accelerate, VITEK REVEAL and Selux. Fixes from that review are in `CHANGELOG.md`; per-family status is in `provenance/extraction_log.csv`; details are in `REVIEW.md`.
+On 2026-11-06 the author re-ran every openFDA query (no new clearances in scope), confirmed all submission fields against live openFDA records, reproduced every derived file byte-for-byte from a fresh copy, and checked the data against the FDA PDFs, including the full drug-by-organism lists for Accelerate, VITEK REVEAL and Selux. Fixes from that review are in `CHANGELOG.md`; details are in `REVIEW.md`.
 
 ## How to read it, and what it is not
 

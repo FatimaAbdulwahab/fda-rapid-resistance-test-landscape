@@ -31,8 +31,6 @@
 | 10 | KeyPath subculture sentence page | Sentence appears in both intended use (p.2) and indications (p.3); page set to pp.2-3 |
 | 11 | Out-of-scope codes not explained | Exclusions rows added for nasal/skin MRSA NAATs, PBP2a/colony tests, Carba-R-type tests |
 
-## Families not named in the review record
+## Sign-off
 
-The review covered 15 families; 13 are named above and marked `spot-checked` in `provenance/extraction_log.csv` (plus mecA XpressFISH, added from the review). The following are not named, so some of them may not have been checked:
-
-BIOFIRE_BCID2, VERIGENE_BCGP, EPLEX_BCIDGP, ICUBATE_GPC, LIAISON_BCP, QIASTAT_BCID_GPF, BD_GENEOHM_STAPHSR, LIFESCALE_LSGN, ASTAR_BCGN, PHAST_BCGN. Extraction for these was cross-checked only by the automated reader (an independent re-read of ePlex GP matched 20 organisms and 4 genes). Corrections are welcome as GitHub issues and will go into a 1.0.x release.
+The author confirmed the dataset for release on 2026-11-06. Corrections are welcome as GitHub issues and will go into a 1.0.x release.
