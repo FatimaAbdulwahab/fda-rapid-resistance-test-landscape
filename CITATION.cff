@@ -4,6 +4,14 @@ type: dataset
 title: "FDA-Cleared Rapid Resistance Test Landscape: a device-by-target dataset of rapid blood culture identification/resistance panels and rapid phenotypic susceptibility systems"
 version: 1.0.0
 date-released: 2026-11-06
+doi: 10.5281/zenodo.24024456
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24024456
+    description: "Version 1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.24024455
+    description: "All versions (concept DOI)"
 authors:
   - family-names: Abdulwahab
     given-names: Fatima

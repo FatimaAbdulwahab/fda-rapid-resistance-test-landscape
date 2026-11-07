@@ -1,8 +1,10 @@
 # FDA-Cleared Rapid Resistance Test Landscape
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24024455.svg)](https://doi.org/10.5281/zenodo.24024455)
+
 An open, device-by-target dataset of FDA-cleared and De Novo-authorized **rapid molecular blood culture identification and resistance panels** and **rapid phenotypic susceptibility systems**, extracted from public FDA decision summaries. Every row records the 510(k) or De Novo number it came from, the decision date, and the page.
 
-**Version 1.0.0** · DOI: assigned by Zenodo on release (add here once minted)
+**Version 1.0.0** · DOI: [10.5281/zenodo.24024456](https://doi.org/10.5281/zenodo.24024456) (this version) · [10.5281/zenodo.24024455](https://doi.org/10.5281/zenodo.24024455) (all versions)
 
 Author: Fatima Abdulwahab, M.S., MLS(ASCP)<sup>CM</sup> · Independent researcher, Dallas, Texas · ORCID [0009-0008-2298-8386](https://orcid.org/0009-0008-2298-8386)
 
@@ -89,7 +91,7 @@ On 2026-11-06 the author re-ran every openFDA query (no new clearances in scope)
 
 ## Citation
 
-Abdulwahab F. *FDA-Cleared Rapid Resistance Test Landscape* (v1.0.0) [Data set]. Zenodo. 2026. DOI to be added on release. See `CITATION.cff`.
+Abdulwahab F. *FDA-Cleared Rapid Resistance Test Landscape* (v1.0.0) [Data set]. Zenodo. 2026. https://doi.org/10.5281/zenodo.24024456. See `CITATION.cff`.
 
 ## License
 
